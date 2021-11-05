@@ -1,0 +1,59 @@
+{
+      "quitanda": [
+            {
+                  "id": 1,
+                  "fruta": "Banana",
+                  "preco": "4,50"
+            },
+            {
+                  "id": 2,
+                  "fruta": "Abacaxi",
+                  "preco": "4,50"
+            },
+            {
+                  "id": 3,
+                  "fruta": "Maçã",
+                  "preco": "4,50"
+            },
+            {
+                  "id": 4,
+                  "fruta": "Goiaba",
+                  "preco": "4,50"
+            },
+            {
+                  "id": 5,
+                  "fruta": "Laranja",
+                  "preco": "4,50"
+            },
+            {
+                  "id": 6,
+                  "fruta": "Abacate",
+                  "preco": "7,77"
+            },
+            {
+                  "id": 7,
+                  "fruta": "Abacate",
+                  "preco": "7,77"
+            },
+            {
+                  "id": 8,
+                  "fruta": "Abóbora",
+                  "preco": "8,50"
+            },
+            {
+                  "id": 9,
+                  "fruta": "Abobrinha italiana",
+                  "preco": "9,50"
+            },
+            {
+                  "id": 10,
+                  "fruta": "Alface",
+                  "preco": "4,50"
+            },
+            {
+                  "id": 11,
+                  "fruta": "Alho",
+                  "preco": "4,50"
+            }
+      ]
+}
