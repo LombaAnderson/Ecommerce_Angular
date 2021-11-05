@@ -29,13 +29,6 @@ Pré-requisitos: NodeJS/npm
 # clonar repositório
 git clone https://github.com/LombaAnderson/Ecommerce_Angular.git
 
-# Criação da pasta da API e arquivo api.js
--rest-api
--api.js
-
-# Iniciando API Rest dentro da pasta rest-api
--npm init
-
 # Instalação do Bootstrap e do Jquery
 -npm install --save bootstrap
 -npm install --save jquery
@@ -55,8 +48,14 @@ git clone https://github.com/LombaAnderson/Ecommerce_Angular.git
 # Criação da pasta webapp(parte do front-end)
 -ng new webapp
 
-# executar o projeto no terminal dentro da pasta webapp
+# executar o projeto no terminal dentro da pasta ecommerce
 -ng serve
+
+# criar dentro da pasta API com arquivo banco.js e executá-lo
+json-server --watch banco.json
+
+# criação do Router para alternar entre as páginas do curso 
+npm install angular-router
 
 ```
 
