@@ -8,22 +8,14 @@ Este é um projeto Angular feito juntamente com NodeJs e com Json server. No sit
 ## Imagem do Site quitandinha do Anderson
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/140579819-543965db-a19d-4d40-b9d7-c950622b260b.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/60937513/140579819-543965db-a19d-4d40-b9d7-c950622b260b.png" width="750px" />
 </div>
 
-## Imagem cadastrada
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/140500982-19dc3fd0-3ca1-4962-9e8b-670dd5e9e91d.png" width="600px" />
-</div>
 
 # Tecnologias utilizadas
 ## Back end
 - Servidor NodeJS
-- Express
-- Banco de dados Mysql
-- API Rest
-- PHP
+- Json Server
 
 ## Front end
 - Angular CLI / HTML / CSS  
@@ -35,7 +27,7 @@ Pré-requisitos: NodeJS/npm
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Certificados_Curso.git
+git clone https://github.com/LombaAnderson/Ecommerce_Angular.git
 
 # Criação da pasta da API e arquivo api.js
 -rest-api
@@ -44,8 +36,9 @@ git clone https://github.com/LombaAnderson/Certificados_Curso.git
 # Iniciando API Rest dentro da pasta rest-api
 -npm init
 
-# Instalação de algumas bibliotecas da API
-- npm install --save express body-parse cors
+# Instalação do Bootstrap e do Jquery
+-npm install --save bootstrap
+-npm install --save jquery
 
 ```
 
