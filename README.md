@@ -1,5 +1,5 @@
 # Projeto Ecommerce_Angular
-![GitHub](https://github.com/LombaAnderson/Ecommerce_Angular/blob/master/LICENSE)
+![GitHub](https://github.com/LombaAnderson/Ecommerce_Angular)
 
 # Sobre o projeto
 
