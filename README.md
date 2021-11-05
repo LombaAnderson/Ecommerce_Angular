@@ -3,12 +3,12 @@
 
 # Sobre o projeto
 
-Este é um projeto Angular feito juntamente com NodeJs e também criado por API Rest. No site do projeto foi feita uma galeria de fotos onde se pode escolher imagens locais e cadastrá-las.   
+Este é um projeto Angular feito juntamente com NodeJs e com Json server. No site do projeto foi feita uma galeria com frutas e verduras onde se pode escolhe-las usando o Json server e comprá-las on-line.   
 
-## Imagem da primeira página do Angular 
+## Imagem do Site quitandinha do Anderson
 
 <div align="center">
-<img src="(https://user-images.githubusercontent.com/60937513/140579819-543965db-a19d-4d40-b9d7-c950622b260b.png)" width="700px" />
+<img src="https://user-images.githubusercontent.com/60937513/140579819-543965db-a19d-4d40-b9d7-c950622b260b.png" width="700px" />
 </div>
 
 ## Imagem cadastrada
