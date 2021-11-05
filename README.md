@@ -47,7 +47,7 @@ Pré-requisitos: Angular, Bootstrap e Jquery
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Certificados_Curso.git
+git clone https://github.com/LombaAnderson/Ecommerce_Angular.git
 
 # Criar projeto no terminal do VS Code ou no de sua preferência
 -npm install -g @angular/cli
